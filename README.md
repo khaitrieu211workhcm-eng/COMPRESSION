@@ -1,4 +1,4 @@
-# Project 1: Compression - Lượng tử hóa đều và nén giãn (μ-law, A-law) cho tín hiệu tiếng nói
+# Compression - Lượng tử hóa đều và nén giãn (μ-law, A-law) cho tín hiệu tiếng nói
 
 Mô phỏng trên MATLAB so sánh **lượng tử hóa đều** với **lượng tử hóa không đều thông qua nén giãn (companding)** theo hai chuẩn viễn thông: **luật μ** (μ = 255, Bắc Mỹ và Nhật Bản) và **luật A** (A = 87.6, Châu Âu). Tín hiệu thử nghiệm là một đoạn tiếng nói nam; hiệu năng được đánh giá bằng **phương sai sai số lượng tử** và **tỉ số tín hiệu trên nhiễu (SNR)** tính bằng phương pháp số.
 
