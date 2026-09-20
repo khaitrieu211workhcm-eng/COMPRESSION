@@ -25,8 +25,6 @@ Mô phỏng trên MATLAB so sánh **lượng tử hóa đều** với **lượng
 - [6. Kết quả](#6-kết-quả)
 - [7. Nhận xét và lưu ý về kết quả](#7-nhận-xét-và-lưu-ý-về-kết-quả)
 - [8. Hướng phát triển](#8-hướng-phát-triển)
-- [9. Cấu trúc thư mục đề xuất](#9-cấu-trúc-thư-mục-đề-xuất)
-- [10. Tài liệu tham khảo](#10-tài-liệu-tham-khảo)
 
 ## 1. Bài toán
 
